@@ -19,7 +19,7 @@ This project is based on Arduino and focuses on measuring a person’s height an
 - Compact and easy-to-use system  
 
 ## 📂 Files
-- [LIGHT_SENSOR.ino](LIGHT_SENSOR.ino)
+- [Height.ino](Height.ino)
 
 ## 🚀 Working Principle
 - Ultrasonic sensor measures distance from head to sensor → calculates height  
