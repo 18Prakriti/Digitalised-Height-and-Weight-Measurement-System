@@ -30,8 +30,8 @@ This project is based on Arduino and focuses on measuring a person’s height an
 - Final height and weight are displayed on screen  
 
 ## 📸 Project Images
-![Setup](Digitalised-Height-and-Weight-Measurement-System/setup.jpg)
-![Circuit](Digitalised-Height-and-Weight-Measurement-System/circuit.jpg)
+![Setup](Digitalised-Height-and-Weight-Measurement-System/Setup.jpg)
+![Circuit](Digitalised-Height-and-Weight-Measurement-System/Circuit.jpg)
 
 ## 🎯 Future Improvements
 - IoT-based data storage and tracking  
